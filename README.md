@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/static/v1?label=license&message=MIT&color=orange) &nbsp;
 ![Bun version](https://img.shields.io/static/v1?label=bun&message=v1.1.24&color=yellow) &nbsp;
-![Repository size](https://img.shields.io/github/repo-size/bush1D3v/+prati?color=blue) &nbsp;
+![Repository size](https://img.shields.io/github/repo-size/bush1D3v/mais_pra_ti?color=blue) &nbsp;
 ![Pull request](https://img.shields.io/static/v1?label=PR&message=welcome&color=green)
 
 ## 🛠️ Technologies and Tools Used
