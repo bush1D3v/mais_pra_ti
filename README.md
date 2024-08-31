@@ -13,3 +13,17 @@
    <img align='center' height='50' width='70' title='TypeScript' alt='typescript' src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' />&nbsp;&nbsp;
    <img align='center' height='50' width='60' title='Biomejs' alt='biomejs' src='https://github.com/user-attachments/assets/b3d8a249-e17f-4e64-9608-4a4783b7bbc0' /> &nbsp;
 </div>
+
+## 💻 Scripts
+
+The following scripts refer to those contained in `package.json`:
+
+Initializing the application:
+```
+bun dev
+```
+
+Formatting and lintting your code with [biome.js](https://biomejs.dev/pt-br)
+```
+bun lint
+```
