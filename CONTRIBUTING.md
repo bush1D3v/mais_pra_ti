@@ -25,6 +25,20 @@ Before starting any work, create a separate branch for your contribution. Use a 
 git checkout -b feature/new-feature
 ```
 
+### ⏬ Installing Dependencies
+
+Make sure you have Node.js and Bun installed on your system. Then install the required dependencies:
+
+```
+bun install
+```
+
+If you don't want to use Bun (Not recommended), use Npm:
+
+```
+npm install
+```
+
 ### 🔨 Making Changes
 
 Make necessary changes to the code, add new features or bug fixes.
