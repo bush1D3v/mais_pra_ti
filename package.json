@@ -1,0 +1,20 @@
+{
+	"name": "maisprati",
+	"module": "Exercises.ts",
+	"type": "module",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": "Victor Navarro",
+	"description": "+ Pra Ti, lista 1 de exercícios.",
+	"scripts": {
+		"dev": "bun run Exercises.ts",
+		"lint": "bunx @biomejs/biome format --write ./"
+	},
+	"main": "Exercises.ts",
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
